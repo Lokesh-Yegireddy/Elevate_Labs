@@ -20,13 +20,13 @@ It demonstrates **Java syntax, methods, Scanner input, loops, and switch-case lo
 
 ## 🛠️ How to Run
 
-1. Save the file as `TwoOperandCalculator.java`.
+1. Save the file as `Calculator.java`.
 2. Open terminal or command prompt in the folder containing the file.
 3. Compile the program:
 
    ```bash
-   javac TwoOperandCalculator.java
-   java TwoOperandCalculator
+   javac Calculator.java
+   java Calculator
 
    ```
 
@@ -58,13 +58,14 @@ Task-1/
 ├── Calculator.java
 ├── README.md
 └── outputScreens/
-├── Menu.png
-├── Add.png
-├── Sub.png
-├── Mul.png
-├── Div.png
-├── Division_By_Zero.png
-└── Exit.png
+    ├── Menu.png
+    ├── Add.png
+    ├── Sub.png
+    ├── Mul.png
+    ├── Div.png
+    ├── Division_By_Zero.png
+    └── Exit.png
+
 
 ## Sample Output Screenshots
 
