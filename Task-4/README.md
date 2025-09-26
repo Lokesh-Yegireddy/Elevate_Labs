@@ -44,6 +44,4 @@ output:
 
 ## 📸 Screenshots
 
-### 1. Writing a Note
-
 ![Writing/Reading a Note](Screenshots/image.png)
