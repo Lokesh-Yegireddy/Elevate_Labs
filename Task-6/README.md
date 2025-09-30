@@ -49,11 +49,11 @@ Task-6/
 
 ### Task Added
 
-![Task Added](Screenshots/taskadded.png)
+![Task Added](Screenshots/taskAdded.png)
 
 ### Task Deleted
 
-![Task Deleted](Screenshots/taskdeleted.png)
+![Task Deleted](Screenshots/taskDeleted.png)
 
 ## 📖 Interview Preparation
 
